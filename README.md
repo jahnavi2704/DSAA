@@ -1,5 +1,5 @@
 <h2>VIRTUAL MOUSE AND KEYBOARD</h2>
-
+<h4>(explain.pdf contains a detail explanation of concepts as well as the implementation in the format of a research paper || final report has a brief version of explain.pdf)</h4>
 <h3>Aim: </h3>
 
 To be able to control computer mouse & keyboard and perform operations like moving cursor, left-click, right-click, page up/down etc. using hand movement and gestures.
